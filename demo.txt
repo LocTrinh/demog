@@ -1,6 +1,6 @@
-edit demo
-comit 2 DemoDa
-comit 2
+line 1
+line 2
+line 3
 comit 1
 comit 2
 comit 3
